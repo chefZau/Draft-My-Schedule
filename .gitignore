@@ -130,3 +130,5 @@ dmypy.json
 
 # configuration file
 resources/config.json
+
+.DS_Store
